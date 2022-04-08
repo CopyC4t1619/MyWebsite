@@ -138,13 +138,3 @@ nav img{
     background: transparent;
     cursor: pointer;
 }
-
-.but:hover{
-    border: 1px solid black;
-    background: black;
-    transition: 1s;
-}
-
-.fot{
-    margin-top: 80px;
-}
