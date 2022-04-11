@@ -141,6 +141,7 @@ nav img{
 }
 
 .but:hover{
-    background-color: black;
+    border: 1px solid black;
+    background: black;
     transition: 1s;
 }
