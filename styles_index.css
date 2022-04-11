@@ -105,6 +105,10 @@ nav img{
     font-size: 20px;
 }
 
+.fot{
+    margin-bottom: 10px;
+}
+
 .photo{
     display: inline-block;
     text-decoration: none;
@@ -125,8 +129,13 @@ nav img{
 .txt{
     text-align: center;
     color: white;
-    background-color: transparent;
+    background: transparent;
     margin-top: 80px;
+    margin-bottom: 10px;
+}
+
+.txt:hover{
+    background: transparent;
 }
 
 .but{
