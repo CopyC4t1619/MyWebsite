@@ -129,11 +129,6 @@ nav img{
     margin-top: 80px;
 }
 
-.txt:hover{
-    background-color: black;
-    transition: 1s;
-}
-
 .but{
     display: inline-block;
     text-decoration: none;
@@ -145,7 +140,7 @@ nav img{
     cursor: pointer;
 }
 
-but:hover{
+.but:hover{
     background-color: black;
     transition: 1s;
 }
